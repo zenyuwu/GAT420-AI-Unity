@@ -105,7 +105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5e7ac032e4653a41bceb63d22ffa3c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pathType: 2
+  agent: {fileID: 8983205805440995792}
+  pathType: 0
 --- !u!114 &2782235033222503904
 MonoBehaviour:
   m_ObjectHideFlags: 0
